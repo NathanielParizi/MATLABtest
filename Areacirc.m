@@ -15,5 +15,15 @@ circumference = pi * 2 * radius
 
 area = pi * radius *2
 
+name = 'Joel'
+
+qFin = true;
+
+int2str(2.2)
+num2str(2.2)
+
+str2double('2.2')
+
+
 
 % sweet! time to do some heavy duty quant trading
