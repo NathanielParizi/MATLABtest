@@ -1,7 +1,7 @@
 clc, clear, close all
 
 % Hello World its Joel Parizi in MATLAB!
-% This is practice in preperation for my
+% This is practice in preparation for my
 % machine learning course at UNG.
 
 
