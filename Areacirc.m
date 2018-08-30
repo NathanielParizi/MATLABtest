@@ -13,7 +13,7 @@ circumference = pi * 2 * radius
 
 3.14 * 8 * 8
 
-area = pi * radius *2
+area = pi * radius * radius
 
 name = 'Joel'
 
@@ -23,6 +23,9 @@ int2str(2.2)
 num2str(2.2)
 
 str2double('2.2')
+
+
+areaOfTheCirlce = pi * radius * radius
 
 
 
